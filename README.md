@@ -1,4 +1,4 @@
-## Hi there 👋 , I’m Sreeja<br>
+Hi there 👋 , I’m Sreeja<br>
 -  I’m interested in Machine Learning and Data Science<br>
 - I’m currently learning Data Visualisation, SQL and Python<br>
 - I’m looking to collaborate on projects based on ML, Data Science and Python<br>
