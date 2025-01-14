@@ -1,7 +1,7 @@
 Hi there 👋 , I’m Sreeja<br>
 -  I’m interested in Artificial Intelligence and Data Science<br>
 - I’m looking to collaborate on projects based on Generative AI, ML, Data Science and Python<br>
-- You can reach me at my discord <freakingsoul#7607> if you're interested in working and learning together!<br>
+- You can reach me on my discord <freakingsoul#7607> if you're interested in working and learning together!<br>
 
 <!---
 nitin-sparky/nitin-sparky is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
